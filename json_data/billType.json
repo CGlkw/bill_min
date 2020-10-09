@@ -1,0 +1,240 @@
+[
+	{
+		"id": 1,
+		"type": "餐饮",
+		"icon": "canyin",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 2,
+		"type": "景点",
+		"icon": "jingdian",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 3,
+		"type": "住宿",
+		"icon": "zhusu",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 4,
+		"type": "短信",
+		"icon": "duanxin",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 5,
+		"type": "餐厅",
+		"icon": "canting",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 6,
+		"type": "飞机",
+		"icon": "feiji",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 7,
+		"type": "公交车",
+		"icon": "gongjiaoche",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 8,
+		"type": "火车",
+		"icon": "huoche",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 9,
+		"type": "健身",
+		"icon": "jianshen",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 10,
+		"type": "空调",
+		"icon": "kongdiao",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 11,
+		"type": "钱",
+		"icon": "qian",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 12,
+		"type": "时间",
+		"icon": "shijian",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 13,
+		"type": "停车费",
+		"icon": "tingchechang",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 14,
+		"type": "网费",
+		"icon": "wuxianwangluo",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 15,
+		"type": "行程",
+		"icon": "xingcheng",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 16,
+		"type": "洗衣",
+		"icon": "xiyiji",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 17,
+		"type": "购物",
+		"icon": "gouwu",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 18,
+		"type": "海滩",
+		"icon": "haitan",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 19,
+		"type": "露营",
+		"icon": "huwai",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 20,
+		"type": "打车",
+		"icon": "jichengche",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 21,
+		"type": "轮船",
+		"icon": "lunchuan",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 22,
+		"type": "话费",
+		"icon": "shouji",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 23,
+		"type": "娱乐",
+		"icon": "yule",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 24,
+		"type": "智能",
+		"icon": "zhinengyouhua",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 25,
+		"type": "攀登",
+		"icon": "ziranfengguang",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 26,
+		"type": "单车",
+		"icon": "zixingche",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 27,
+		"type": "游泳",
+		"icon": "youyongchi",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 28,
+		"type": "房租",
+		"icon": "shouye",
+		"isSelect": true,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 29,
+		"type": "逛街",
+		"icon": "duogouwu",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 30,
+		"type": "当地",
+		"icon": "dangdi",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 31,
+		"type": "存钱",
+		"icon": "dixiaofei",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 32,
+		"type": "晚餐",
+		"icon": "wancan",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 33,
+		"type": "午餐",
+		"icon": "wucan",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	},
+	{
+		"id": 34,
+		"type": "早餐",
+		"icon": "zaocan",
+		"isSelect": false,
+		"time": "2020-09-17 10:00:00"
+	}
+]
